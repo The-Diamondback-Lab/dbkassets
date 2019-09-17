@@ -1,4 +1,4 @@
-# :satchel: Diamondback Assets
+# :relieved: Diamondback Assets
 
 Diamondback assets - logos, fonts, swatches, and more!
 
