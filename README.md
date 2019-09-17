@@ -36,5 +36,5 @@ Logo and default images were designed in Adobe XD. They can be viewed [here][1].
 
 - [Adobe XD][1] - UI/UX design tool for web and mobile applications
 
-[1]: https://xd.adobe.com/spec/10edf96c-d708-4db0-799a-069ea7559223-66dc/
+[1]: https://xd.adobe.com/spec/10edf96c-d708-4db0-799a-069ea7559223-66dc/grid
 [2]: https://www.adobe.com/products/xd.html
